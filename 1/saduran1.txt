@@ -1,0 +1,4 @@
+nim: 1811500058
+Nama: Arya Risandi
+kelompok: TI6A
+
