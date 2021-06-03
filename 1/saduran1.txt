@@ -1,6 +1,6 @@
-nim: 1811500058
-Nama: Arya Risandi
-kelompok: TI6A
-
+Nim : 1811500058<br>
+Nama : Arya Risandi<br>
+kelompok : TI6A<br>
+<br>
 pertemuan pertama
 1.
